@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>        
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Kosen Scholarship HP</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
+            <div class="container">
+                <!--<a class="navbar-brand" href="https://mswebs.naist.jp/LABs/yanagida/index.html"><u>奈良先端科学技術大学院大学　量子物理工学研究室</u></a> -->
+                <a class="navbar-brand" href="./index.html"><u>高専生の懐を暖めるサイト</u></a>
+                <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="./index.html">HOME</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="./Scholarship.html">奨学金</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="./Job.html">就活</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="./Education.html"">進学</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="./Contest.html">コンテスト</a></li>
+                        <!--<li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#contact">Contact</a></li>-->
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Masthead-->
+        <header class="masthead bg-primary text-white text-center">
+            <div class="container d-flex align-items-center flex-column">
+                <!-- Masthead Avatar Image-->
+                <!-- <img class="masthead-avatar mb-5" src="assets/img/avataaars.svg" alt="..." />-->
+                <!-- Masthead Heading-->
+                <h1 class="masthead-heading text-uppercase mb-0" id="site">修士の給付型奨学金</h1>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- Masthead Subheading-->
+                <!-- <p class="masthead-subheading font-weight-light mb-0"><b>奨学金 - 就活 - 進学</b></p>-->
+            </div>
+        </header>
+        
+        
+        
+        
+        
+        <!-- 1月 -->
+        <section class="page-section" id="Purpose">
+            <div class="container">
+                <!-- Purpose Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">1月の奨学金</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- Purpose Section Content-->
+                <div class="row">
+                    <div class="col-lg-12 ms-auto"><p class="lead">
+                    <ol>
+                            <h5><li>公益財団法人 クマ財団（25歳以下）</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://kuma-foundation.org/scholarship/guideline/">https://kuma-foundation.org/scholarship/guideline/</a><br>
+                                </p></div>
+                            <h5><li>公益財団法人 アイコム電子通信工学振興財団</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://www.icom.or.jp/bosyu/">https://www.icom.or.jp/bosyu/</a><br>
+                                </p></div>
+                            </ol>
+                            </div>
+                </div>
+            </div>
+        </section>
+        
+        
+        
+        
+        
+        <!-- 2月 -->
+        <section class="page-section bg-primary text-white mb-0" id="Jan">
+            <div class="container">
+                <!-- Scholarship Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-white">2月の奨学金</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+            <!-- Purpose Section Content-->
+                <div class="row">
+                    <div class="col-lg-12 ms-auto">
+                    <ol>
+                            <h5><li>トビタテ！留学 JAPAN（大学生コース）</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://tobitate.mext.go.jp/news/detail.html?id=405"><font color="black">https://tobitate.mext.go.jp/news/detail.html?id=405</font></a><br>
+                                </p></div>
+                            </ol>
+                            </div>
+                </div>                
+            </div>
+        </section>
+        
+        
+        
+        
+        
+        <!-- 3月 -->
+        <section class="page-section" id="Purpose">
+            <div class="container">
+                <!-- Purpose Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">3月の奨学金</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- Purpose Section Content-->
+                <div class="row">
+                    <div class="col-lg-12 ms-auto"><p class="lead">
+                    <ol>
+                            <h5><li>公益財団法人 佐々木泰樹育英会</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://sasakitaijuikueikai.or.jp/">https://sasakitaijuikueikai.or.jp/</a><br>
+                                </p></div> 
+                            <h5><li>工業教育研究助成金</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://zai-amano.or.jp/scholarship-g">https://zai-amano.or.jp/scholarship-g</a><br>
+                                </p></div>             
+                            <h5><li>公益財団法人 アドヴァン山形育英会</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://www.advan.co.jp/ikueikai/requirements/">https://www.advan.co.jp/ikueikai/requirements/</a><br>
+                                </p></div> 
+                            
+                            
+                            </ol>
+                            </div>
+                </div>
+            </div>
+        </section>
+        
+        
+        
+        
+        
+        <!-- 4月 -->
+        <section class="page-section bg-primary text-white mb-0" id="Jan">
+            <div class="container">
+                <!-- Scholarship Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-white">4月の奨学金</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+            <!-- Purpose Section Content-->
+                <div class="row">
+                    <div class="col-lg-12 ms-auto">
+                    <ol>
+                            <h5><li>公益財団法人 旭硝子財団</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://www.af-info.or.jp/scholarship/about.html"><font color="black">https://www.af-info.or.jp/scholarship/about.html</font></a><br>
+                                </p></div>
+                            <h5><li>公益財団法人 G-7奨学財団</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://g-7foundation.or.jp/syougaku.html"><font color="black">https://g-7foundation.or.jp/syougaku.html</font></a><br>
+                                </p></div>
+                            <h5><li>公益財団法人 フジシール財団</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://www.fujiseal.or.jp/business/scholarship.html"><font color="black">https://www.fujiseal.or.jp/business/scholarship.html</font></a><br>
+                                </p></div>
+                            <h5><li>公益財団法人 小原白梅育英基金</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://www.jsbank.co.jp/shiraume/1gaiyou.html"><font color="black">https://www.jsbank.co.jp/shiraume/1gaiyou.html</font></a><br>
+                                </p></div>
+                            <h5><li>公益財団法人 日本証券奨学財団</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://jssf.or.jp/scholarship.html"><font color="black">https://jssf.or.jp/scholarship.html</font></a><br>
+                                </p></div>
+                            <h5><li>公益財団法人 尚志社</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://www.shoshisha.or.jp/scholarship/application.html"><font color="black">https://www.shoshisha.or.jp/scholarship/application.html</font></a><br>
+                                </p></div>
+                            <h5><li>公益財団法人 中董奨学会</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://www.nakashima-foundation.org/scholarship/entry/index.html"><font color="black">https://www.nakashima-foundation.org/scholarship/entry/index.html</font></a><br>
+                                </p></div>
+                             <h5><li>公益財団法人三菱UFJ信託奨学財団</li></h5>
+                             <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://www.scholarship.or.jp/program/contents/application.html"><font color="black">https://www.scholarship.or.jp/program/contents/application.html</font></a><br>
+                                </p></div>
+                            <h5><li>公益財団法人 森下仁丹奨学会団</li></h5>
+                             <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://jintan-shogakkai.jp/guideline.html"><font color="black">https://jintan-shogakkai.jp/guideline.html</font></a><br>
+                                </p></div>
+                            
+                            
+                            
+                            
+                            </ol>
+                            </div>
+                </div> 
+            </div>
+        </section>
+        
+        
+        
+        
+         
+        <!-- 5月 -->
+        <section class="page-section" id="Purpose">
+            <div class="container">
+                <!-- Purpose Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">5月の奨学金</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- Purpose Section Content-->
+                <div class="row">
+                    <div class="col-lg-12 ms-auto"><p class="lead">
+                    <ol>
+                            <h5><li>一般財団法人 守谷育英会</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://moritani-scholarship.or.jp/images/pamphlet.pdf">https://moritani-scholarship.or.jp/images/pamphlet.pdf</a><br>
+                                </p></div>                                                    
+                            <h5><li>公益財団法人 中部奨学会</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://nakabe-foundation.org/oubo/">https://nakabe-foundation.org/oubo/</a><br>
+                                </p></div>                            
+                            <h5><li>公益財団法人 佐藤奨学会</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://www.sato-shogakukai.jp/guideline/">https://www.sato-shogakukai.jp/guideline/</a><br>
+                                </p></div>                                                    
+                            <h5><li>公益財団法人 COSINA奨学会</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="http://www.cosinafound.or.jp/seido.html">http://www.cosinafound.or.jp/seido.html</a><br>
+                                </p></div>                                                 
+                            <h5><li>公益財団法人 戸部眞紀財団</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://tobe-maki.or.jp/scholarship/">https://tobe-maki.or.jp/scholarship/</a><br>
+                                </p></div>                           
+                            <h5><li>公益財団法人 アイザワ記念育英財団</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://aizawa-ikuei.org/shyougakukingaiyou.html">https://aizawa-ikuei.org/shyougakukingaiyou.html</a><br>
+                                </p></div>                            
+                            <h5><li>公益財団法人 国土育英会</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://www.tsukuba.ac.jp/images/27020511cb60cede37d5643c3bcf408b_1.pdf">https://www.tsukuba.ac.jp/images/27020511cb60cede37d5643c3bcf408b_1.pdf</a><br>
+                                </p></div>                            
+                            <h5><li>公益財団法人 ダイオーズ記念財団</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="http://www.daiohs-zaidan.or.jp/">http://www.daiohs-zaidan.or.jp/</a><br>
+                                </p></div>                           
+                            <h5><li>公益財団法人 日揮・実吉奨学会</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://www.jgcs.or.jp/business/found.html">https://www.jgcs.or.jp/business/found.html</a><br>
+                                </p></div>
+
+                            <h5><li>公益財団法人 安藤スポーツ・食文化振興財団</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://www.ando-zaidan.jp/innovation/scholarship/">https://www.ando-zaidan.jp/innovation/scholarship/</a><br>
+                                </p></div>
+                            
+                            
+                            </ol>
+                            </div>
+                </div>
+            </div>
+        </section>
+        
+        
+        
+        
+        
+        <!-- 6月 -->
+        <section class="page-section bg-primary text-white mb-0" id="Jan">
+            <div class="container">
+                <!-- Scholarship Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-white">6月の奨学金</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+            <!-- Purpose Section Content-->
+                <div class="row">
+                    <div class="col-lg-12 ms-auto">
+                    <ol>
+                            <h5><li>一般財団法人 大森昌三記念財団</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="http://www.omorishozo.or.jp/"><font color="black">http://www.omorishozo.or.jp/</font></a><br>
+                                </p></div>
+
+                            <h5><li>公益財団法人 川村育英会</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="http://kawamura-ikueikai.or.jp/outline.html"><font color="black">http://kawamura-ikueikai.or.jp/outline.html</font></a><br>
+                                </p></div>
+                     
+                            
+                            
+                            </ol>
+                            </div>
+                </div>    
+                            
+                            
+            </div>
+        </section>
+        
+        
+        
+        
+        
+        <!-- 7月 -->
+        <section class="page-section" id="Purpose">
+            <div class="container">
+                <!-- Purpose Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">7月の奨学金</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- Purpose Section Content-->
+                <div class="row">
+                    <div class="col-lg-12 ms-auto"><p class="lead">
+                        Under Construction<br>
+                        </p></div>
+                </div>
+            </div>
+        </section>
+        
+        
+        
+        
+        
+        <!-- 8月 -->
+        <section class="page-section bg-primary text-white mb-0" id="Jan">
+            <div class="container">
+                <!-- Scholarship Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-white">8月の奨学金</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+            <!-- Purpose Section Content-->
+                <div class="row">
+                    <div class="col-lg-12 ms-auto"><p class="lead">
+                        Under Construction<br>
+                        </p></div>
+                </div>
+            </div>
+        </section>
+        
+        
+        
+        
+        
+        <!-- 9月 -->
+        <section class="page-section" id="Purpose">
+            <div class="container">
+                <!-- Purpose Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">9月の奨学金</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- Purpose Section Content-->
+                <div class="row">
+                    <div class="col-lg-12 ms-auto"><p class="lead">
+                    <ol>
+                            <h5><li>Under const.</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href=""></a><br>
+                                </p></div>
+
+                            </ol>
+                            </div>
+                </div>
+            </div>
+        </section>
+        
+        
+        
+        
+        
+        <!-- 10月 -->
+        <section class="page-section bg-primary text-white mb-0" id="Jan">
+            <div class="container">
+                <!-- Scholarship Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-white">10月の奨学金</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+            <!-- Purpose Section Content-->
+                <div class="row">
+                    <div class="col-lg-12 ms-auto">
+                    <ol>
+                            <h5><li>公益財団法人 本庄国際奨学財団</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://www.hisf.or.jp/scholarship/graduate-school/"><font color="black">https://www.hisf.or.jp/scholarship/graduate-school/</font></a><br>
+                                </p></div>   
+                            
+                            
+                            
+                            </ol>
+                            </div>
+                </div>   
+            </div>
+        </section>
+        
+        
+        
+        
+         
+        <!-- 11月 -->
+        <section class="page-section" id="Purpose">
+            <div class="container">
+                <!-- Purpose Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">11月の奨学金</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- Purpose Section Content-->
+                <div class="row">
+                            <h5><li>Under const.</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href=""></a><br>
+                                </p></div>
+                </div>
+            </div>
+        </section>
+        
+        
+        
+        
+        
+        <!-- 12月 -->
+        <section class="page-section bg-primary text-white mb-0" id="Jan">
+            <div class="container">
+                <!-- Scholarship Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-white">12月の奨学金</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                        <!-- Purpose Section Content-->
+                <div class="row">
+                    <div class="col-lg-12 ms-auto">
+                    <ol>
+                            <h5><li>公益財団法人 山田長満奨学会</li></h5>
+                            <div class="col-lg-12 ms-auto"><p class="lead">
+                                募集要項：<a href="https://www.yamada-foundation.or.jp/apply/"><font color="black">https://www.yamada-foundation.or.jp/apply/</font></a><br>
+                                </p></div>   
+                            </ol>
+                            </div>
+                </div>   
+            </div>
+                            
+        </section>
+        
+        
+        <!-- Footer-->
+        <footer class="footer text-center">
+            <div class="container">
+                <div class="row">
+                    <!-- Footer Location-->
+                    <div class="col-lg-4 mb-5 mb-lg-0">
+                        <h4 class="text-uppercase mb-4">Location</h4>
+                        <p class="lead mb-0">
+                            <!--〒630-0192-->
+                            <br />
+                            <!--奈良県奈良市高山町 8916-5-->
+                        </p>
+                    </div>
+                    <!-- Footer Social Icons-->
+                    <div class="col-lg-4 mb-5 mb-lg-0">
+                        <h4 class="text-uppercase mb-4">Around the Web</h4>
+                        <!--<a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/profile.php?id=100087624687542"><i class="fab fa-fw fa-facebook-f"></i></a>-->
+                        <a class="btn btn-outline-light btn-social mx-1" href="https://twitter.com/Yusuke_Endo_EEE"><i class="fab fa-fw fa-twitter"></i></a>
+                        <!--<a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-linkedin-in"></i></a>-->
+                        <!--<a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-dribbble"></i></a>-->
+                    </div>
+                    <!-- Footer Profile Text-->
+                    <div class="col-lg-4">
+                        <!--<h4 class="text-uppercase mb-4">About Scholarship Inc.</h4>-->
+                        <p class="lead mb-0">
+                            <!--<IMG SRC="/cgi-bin/Count.cgi?df=x.dat">-->
+                            <!--起業準備中-->
+                            <!--<a href="http://startbootstrap.com">Start Bootstrap</a>-->
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+    </body>
+</html>
+
